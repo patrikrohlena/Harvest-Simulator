@@ -24,6 +24,11 @@ Cílem je vydělávat co nejvíce peněz, pořizovat si stále lepší nástroje
 
 ![Hráčův pohled](Hráčův%20pohled.png)
 
+## Tool Concept
+
+![Pohled v Enginu](Level%201%20Tool%20Concept.jpg)
+
 ## Základní herní smyčka
 
 Sbírej předměty -> Vydělávej peníze -> Vylepšuj nástroje -> Odemykej nové úrovně -> Sbírej hodnotnější předměty -> Vydělávej ještě více peněz.
+
