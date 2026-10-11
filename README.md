@@ -12,7 +12,12 @@ Harvest Simulator je hra zaměřená na sbírání předmětů, vydělávání p
 
 ## Cíl hry
 
-Cílem je vydělávat co nejvíce peněz, pořizovat si stále lepší nástroje a postupně odemykat nové úrovně, ve kterých lze sbírat hodnotnější předměty.
+Cílem je vydělávat co nejvíce peněz, pořizovat si stále lepší nástroje a postupně odemykat nové úrovně, ve kterých lze sbírat hodnotnější předměty efektivněji.
+
+## Pohled v Enginu
+![Pohled v Enginu](Pohled v Enginu.png)
+## Hráčův pohled
+![Hráčův pohled](Hráčův pohled.png)
 
 ## Základní herní smyčka
 
