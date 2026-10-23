@@ -16,9 +16,6 @@ Hra je vyvíjena v herním enginu **Unreal Engine 5**.
 
 Cílem je vydělávat co nejvíce peněz, pořizovat si stále lepší nástroje a postupně odemykat nové úrovně, ve kterých lze sbírat hodnotnější předměty efektivněji.
 
-## Pohled v Enginu
-
-![Pohled v Enginu](Pohled%20v%20Enginu.png)
 
 ## Hráčův pohled
 
